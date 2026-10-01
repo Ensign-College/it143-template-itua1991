@@ -1,4 +1,4 @@
-```sql
+
 -- EC_IT143_W5.2_Simpsons_AI.sql
 -- My Communities Analysis: Simpsons_Restored
 
@@ -116,4 +116,4 @@ ORDER BY
     fs.transaction_year,
     fs.total_spending DESC;
 GO
-```
+
